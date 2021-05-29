@@ -2,7 +2,7 @@
 
 This is an interactive visualisation of [Kirchhoff's Voltage Law](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws#Kirchhoff.27s_voltage_law_.28KVL.29).
 
-View on [rawgit](https://cdn.rawgit.com/UoBEdTechSTEMM/kirchhoff-voltage-law/6cdf935d/index.html) :sushi:
+Published at [https://uobedtechstemm.github.io/kirchhoff-voltage-law/](https://uobedtechstemm.github.io/kirchhoff-voltage-law/)
 
 ### TODO
 
